@@ -1,0 +1,6 @@
+# ignore consolidated backups and temp artifacts
+skills-unified/_backup_*
+skills-unified/*_backup_originals_*
+skills-unified/*.tar.gz
+skills-unified/_backup_references_*
+.DS_Store
